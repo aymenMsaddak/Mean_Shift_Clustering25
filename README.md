@@ -63,7 +63,7 @@ MACHINE LEARNING PROJECT 2025/
 │ Jupyter Notebook that generates and clusters synthetic crime data for Tunis (earlier prototype).
 │
 └── tunisia_synthetic_crime_mean_shift_map.html
-Interactive national-level synthetic map of crime clustering using Mean Shift.
+  Interactive national-level synthetic map of crime clustering using Mean Shift.
 
 ---
 
