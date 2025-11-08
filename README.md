@@ -33,37 +33,18 @@ The project demonstrates how Mean Shift can automatically identify high-density 
 ---
 
 ## 🧩 Project Structure
-MACHINE LEARNING PROJECT 2025/
-│
-├── images/
-    Folder containing visual assets or exported figures used in the presentation or notebook.
-│
-├── IT_430_Mean_Shift_Clustering.pdf
-    Final presentation slides (Beamer LaTeX export).
-│
-├── mean_shift_clustering.ipynb
-    Main Jupyter Notebook explaining the Mean Shift algorithm, research questions, and experimental results.
-│
-├── README.md
-    Project documentation (you’re reading it!).
-│
-├── sfax_crime_data.csv
-    Synthetic dataset containing latitude and longitude points for crime events in Sfax.
-│
-├── synthetic_sfax_crime_hotspots.ipynb
-    Final notebook generating realistic crime cluster simulation and visualization for Sfax.
-│
-├── sfax_crime_hotspots.html
-    Interactive Folium map visualizing Mean Shift–detected crime clusters in Sfax.
-│
-├── sfax_crime_hotspots_heatmap.html
-    Folium heatmap version showing density intensity of crime events in Sfax.
-│
-├── synthetic_tunis_crime_hotspots.ipynb
-    Jupyter Notebook that generates and clusters synthetic crime data for Tunis (earlier prototype).
-│
-└── tunisia_synthetic_crime_mean_shift_map.html
-    Interactive national-level synthetic map of crime clustering using Mean Shift.
+
+- **MACHINE LEARNING PROJECT 2025/**
+  - **images/**: Folder containing visual assets or exported figures used in the presentation or notebook.
+  - **IT_430_Mean_Shift_Clustering.pdf**: Final presentation slides (Beamer LaTeX export).
+  - **mean_shift_clustering.ipynb**: Main Jupyter Notebook explaining the Mean Shift algorithm, research questions, and experimental results.
+  - **README.md**: Project documentation (you’re reading it!).
+  - **sfax_crime_data.csv**: Synthetic dataset containing latitude and longitude points for crime events in Sfax.
+  - **synthetic_sfax_crime_hotspots.ipynb**: Final notebook generating realistic crime cluster simulation and visualization for Sfax.
+  - **sfax_crime_hotspots.html**: Interactive Folium map visualizing Mean Shift–detected crime clusters in Sfax.
+  - **sfax_crime_hotspots_heatmap.html**: Folium heatmap version showing density intensity of crime events in Sfax.
+  - **synthetic_tunis_crime_hotspots.ipynb**: Jupyter Notebook that generates and clusters synthetic crime data for Tunis (earlier prototype).
+  - **tunisia_synthetic_crime_mean_shift_map.html**: Interactive national-level synthetic map of crime clustering using Mean Shift.
 
 ---
 
